@@ -1,0 +1,38 @@
+{"name":"hexo","hostname":"SC-201810302123","pid":7056,"level":20,"msg":"Writing database to E:\\Jason files\\hexo\\Jason's Blog/db.json","time":"2020-01-28T08:11:15.521Z","v":0}
+{"name":"hexo","hostname":"SC-201810302123","pid":7056,"level":20,"msg":"Hexo version: \u001b[35m4.2.0\u001b[39m","time":"2020-01-28T08:11:15.546Z","v":0}
+{"name":"hexo","hostname":"SC-201810302123","pid":7056,"level":20,"msg":"Working directory: \u001b[35mE:\\Jason files\\hexo\\Jason's Blog\\\u001b[39m","time":"2020-01-28T08:11:15.547Z","v":0}
+{"name":"hexo","hostname":"SC-201810302123","pid":7056,"level":20,"msg":"Config loaded: \u001b[35mE:\\Jason files\\hexo\\Jason's Blog\\_config.yml\u001b[39m","time":"2020-01-28T08:11:15.743Z","v":0}
+{"name":"hexo","hostname":"SC-201810302123","pid":7056,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-asset-image\u001b[39m","time":"2020-01-28T08:11:15.865Z","v":0}
+{"name":"hexo","hostname":"SC-201810302123","pid":7056,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-archive\u001b[39m","time":"2020-01-28T08:11:15.871Z","v":0}
+{"name":"hexo","hostname":"SC-201810302123","pid":7056,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-category\u001b[39m","time":"2020-01-28T08:11:15.873Z","v":0}
+{"name":"hexo","hostname":"SC-201810302123","pid":7056,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-index\u001b[39m","time":"2020-01-28T08:11:15.876Z","v":0}
+{"name":"hexo","hostname":"SC-201810302123","pid":7056,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-generator-tag\u001b[39m","time":"2020-01-28T08:11:15.878Z","v":0}
+{"name":"hexo","hostname":"SC-201810302123","pid":7056,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-renderer-ejs\u001b[39m","time":"2020-01-28T08:11:15.886Z","v":0}
+{"name":"hexo","hostname":"SC-201810302123","pid":7056,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-renderer-marked\u001b[39m","time":"2020-01-28T08:11:15.954Z","v":0}
+{"name":"hexo","hostname":"SC-201810302123","pid":7056,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-renderer-stylus\u001b[39m","time":"2020-01-28T08:11:16.092Z","v":0}
+{"name":"hexo","hostname":"SC-201810302123","pid":7056,"level":20,"msg":"Plugin loaded: \u001b[35mhexo-server\u001b[39m","time":"2020-01-28T08:11:16.199Z","v":0}
+{"name":"hexo","hostname":"SC-201810302123","pid":7056,"level":30,"msg":"Start processing","time":"2020-01-28T08:11:16.214Z","v":0}
+{"name":"hexo","hostname":"SC-201810302123","pid":7056,"level":20,"msg":"Processed: \u001b[35mJavascript-skills/index.md\u001b[39m","time":"2020-01-28T08:11:16.270Z","v":0}
+{"name":"hexo","hostname":"SC-201810302123","pid":7056,"level":20,"msg":"Processed: \u001b[35m_drafts/Javascript-skills.md\u001b[39m","time":"2020-01-28T08:11:16.274Z","v":0}
+{"name":"hexo","hostname":"SC-201810302123","pid":7056,"level":20,"msg":"Processed: \u001b[35m_posts/README.md\u001b[39m","time":"2020-01-28T08:11:16.279Z","v":0}
+{"name":"hexo","hostname":"SC-201810302123","pid":7056,"level":20,"msg":"Processed: \u001b[35mimages/music.png\u001b[39m","time":"2020-01-28T08:11:16.285Z","v":0}
+{"name":"hexo","hostname":"SC-201810302123","pid":7056,"level":20,"msg":"Processed: \u001b[35m_posts/hello-world.md\u001b[39m","time":"2020-01-28T08:11:16.289Z","v":0}
+{"name":"hexo","hostname":"SC-201810302123","pid":7056,"level":20,"msg":"Rendering post: \u001b[35mE:\\Jason files\\hexo\\Jason's Blog\\source\\_drafts\\Javascript-skills.md\u001b[39m","time":"2020-01-28T08:11:16.321Z","v":0}
+{"name":"hexo","hostname":"SC-201810302123","pid":7056,"level":20,"msg":"Rendering post: \u001b[35mE:\\Jason files\\hexo\\Jason's Blog\\source\\_posts\\README.md\u001b[39m","time":"2020-01-28T08:11:16.323Z","v":0}
+{"name":"hexo","hostname":"SC-201810302123","pid":7056,"level":20,"msg":"Rendering post: \u001b[35mE:\\Jason files\\hexo\\Jason's Blog\\source\\_posts\\hello-world.md\u001b[39m","time":"2020-01-28T08:11:16.324Z","v":0}
+{"name":"hexo","hostname":"SC-201810302123","pid":7056,"level":20,"msg":"Rendering post: \u001b[35mE:\\Jason files\\hexo\\Jason's Blog\\source\\Javascript-skills\\index.md\u001b[39m","time":"2020-01-28T08:11:16.327Z","v":0}
+{"name":"hexo","hostname":"SC-201810302123","pid":7056,"level":20,"msg":"Generator: \u001b[35mpage\u001b[39m","time":"2020-01-28T08:11:16.423Z","v":0}
+{"name":"hexo","hostname":"SC-201810302123","pid":7056,"level":20,"msg":"Generator: \u001b[35mpost\u001b[39m","time":"2020-01-28T08:11:16.424Z","v":0}
+{"name":"hexo","hostname":"SC-201810302123","pid":7056,"level":20,"msg":"Generator: \u001b[35marchive\u001b[39m","time":"2020-01-28T08:11:16.427Z","v":0}
+{"name":"hexo","hostname":"SC-201810302123","pid":7056,"level":20,"msg":"Generator: \u001b[35mcategory\u001b[39m","time":"2020-01-28T08:11:16.428Z","v":0}
+{"name":"hexo","hostname":"SC-201810302123","pid":7056,"level":20,"msg":"Generator: \u001b[35mindex\u001b[39m","time":"2020-01-28T08:11:16.429Z","v":0}
+{"name":"hexo","hostname":"SC-201810302123","pid":7056,"level":20,"msg":"Generator: \u001b[35mtag\u001b[39m","time":"2020-01-28T08:11:16.430Z","v":0}
+{"name":"hexo","hostname":"SC-201810302123","pid":7056,"level":20,"msg":"Generator: \u001b[35masset\u001b[39m","time":"2020-01-28T08:11:16.431Z","v":0}
+{"name":"hexo","hostname":"SC-201810302123","pid":7056,"level":30,"msg":"Hexo is running at \u001b[4mhttp://localhost:4000\u001b[24m . Press Ctrl+C to stop.","time":"2020-01-28T08:11:16.444Z","v":0}
+{"name":"hexo","hostname":"SC-201810302123","pid":7056,"level":20,"msg":"Database saved","time":"2020-01-28T08:11:16.456Z","v":0}
+{"name":"hexo","hostname":"SC-201810302123","pid":7056,"level":40,"msg":"No layout: \u001b[35mindex.html\u001b[39m","time":"2020-01-28T08:11:23.016Z","v":0}
+{"name":"hexo","hostname":"SC-201810302123","pid":7056,"level":40,"msg":"No layout: \u001b[35mindex.html\u001b[39m","time":"2020-01-28T08:11:25.176Z","v":0}
+{"name":"hexo","hostname":"SC-201810302123","pid":7056,"level":40,"msg":"No layout: \u001b[35mindex.html\u001b[39m","time":"2020-01-28T08:11:30.436Z","v":0}
+{"name":"hexo","hostname":"SC-201810302123","pid":7056,"level":40,"msg":"No layout: \u001b[35mindex.html\u001b[39m","time":"2020-01-28T08:11:42.413Z","v":0}
+{"name":"hexo","hostname":"SC-201810302123","pid":7056,"level":30,"msg":"See you again","time":"2020-01-28T08:12:09.158Z","v":0}
+{"name":"hexo","hostname":"SC-201810302123","pid":7056,"level":20,"msg":"Database saved","time":"2020-01-28T08:12:09.165Z","v":0}

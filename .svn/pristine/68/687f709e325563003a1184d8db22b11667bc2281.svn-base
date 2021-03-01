@@ -1,0 +1,717 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2">
+<meta name="theme-color" content="#222">
+<meta name="generator" content="Hexo 4.2.0">
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/Jasonfavicon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/images/Jasonfavicon.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/images/Jasonfavicon.png">
+  <link rel="mask-icon" href="/images/Jasonfavicon.png" color="#222">
+
+<link rel="stylesheet" href="/css/main.css">
+
+
+<link rel="stylesheet" href="/lib/font-awesome/css/font-awesome.min.css">
+  <link rel="stylesheet" href="/lib/pace/pace-theme-minimal.min.css">
+  <script src="/lib/pace/pace.min.js"></script>
+
+
+<script id="hexo-configurations">
+  var NexT = window.NexT || {};
+  var CONFIG = {
+    hostname: new URL('http://www.huangjunfeng.com').hostname,
+    root: '/',
+    scheme: 'Muse',
+    version: '7.7.0',
+    exturl: false,
+    sidebar: {"position":"left","display":"post","padding":18,"offset":12,"onmobile":false},
+    copycode: {"enable":false,"show_result":false,"style":null},
+    back2top: {"enable":true,"sidebar":false,"scrollpercent":true},
+    bookmark: {"enable":false,"color":"#222","save":"auto"},
+    fancybox: false,
+    mediumzoom: false,
+    lazyload: false,
+    pangu: false,
+    comments: {"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},
+    algolia: {
+      appID: '',
+      apiKey: '',
+      indexName: '',
+      hits: {"per_page":10},
+      labels: {"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}","hits_stats":"${hits} results found in ${time} ms"}
+    },
+    localsearch: {"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false},
+    path: 'search.xml',
+    motion: {"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}}
+  };
+</script>
+
+  <meta name="description" content="最近睇嘅三部剧，先后顺序，《叹息桥》、《玛嘉烈与大卫 绿豆》、《玛嘉烈与大卫 前度》，都喺同一班制作团队，我作为一个门外汉以及一个观众嘅角度嚟评价呢三部剧的制作，我只可以讲我喺叹为观止。每一帧都喺艺术大片，每一首插曲都喺恰到好处。 如果要我评分，我会俾九分，剩低嘅一分，我俾陈奕迅。 好多人拍拖唔知自己究竟爱唔爱对方。 其实你喺爱嘅，只喺，唔够爱。 维系一段关系最紧要嘅喺乜嘢？信任。 绿豆里面，大卫">
+<meta property="og:type" content="article">
+<meta property="og:title" content="好比火星跟水星相恋">
+<meta property="og:url" content="http://www.huangjunfeng.com/2020/05/19/life/20200519/index.html">
+<meta property="og:site_name" content="Jason&#39;s Blog">
+<meta property="og:description" content="最近睇嘅三部剧，先后顺序，《叹息桥》、《玛嘉烈与大卫 绿豆》、《玛嘉烈与大卫 前度》，都喺同一班制作团队，我作为一个门外汉以及一个观众嘅角度嚟评价呢三部剧的制作，我只可以讲我喺叹为观止。每一帧都喺艺术大片，每一首插曲都喺恰到好处。 如果要我评分，我会俾九分，剩低嘅一分，我俾陈奕迅。 好多人拍拖唔知自己究竟爱唔爱对方。 其实你喺爱嘅，只喺，唔够爱。 维系一段关系最紧要嘅喺乜嘢？信任。 绿豆里面，大卫">
+<meta property="og:locale" content="en_US">
+<meta property="article:published_time" content="2020-05-19T14:48:15.000Z">
+<meta property="article:modified_time" content="2020-05-19T15:57:37.742Z">
+<meta property="article:author" content="Jason Wong">
+<meta property="article:tag" content="life">
+<meta property="article:tag" content="玛嘉烈与大卫">
+<meta property="article:tag" content="叹息桥">
+<meta name="twitter:card" content="summary">
+
+<link rel="canonical" href="http://www.huangjunfeng.com/2020/05/19/life/20200519/">
+
+
+<script id="page-configurations">
+  // https://hexo.io/docs/variables.html
+  CONFIG.page = {
+    sidebar: "",
+    isHome: false,
+    isPost: true
+  };
+</script>
+
+  <title>好比火星跟水星相恋 | Jason's Blog</title>
+  
+
+
+
+
+
+
+  <noscript>
+  <style>
+  .use-motion .brand,
+  .use-motion .menu-item,
+  .sidebar-inner,
+  .use-motion .post-block,
+  .use-motion .pagination,
+  .use-motion .comments,
+  .use-motion .post-header,
+  .use-motion .post-body,
+  .use-motion .collection-header { opacity: initial; }
+
+  .use-motion .site-title,
+  .use-motion .site-subtitle {
+    opacity: initial;
+    top: initial;
+  }
+
+  .use-motion .logo-line-before i { left: initial; }
+  .use-motion .logo-line-after i { right: initial; }
+  </style>
+</noscript>
+
+<link rel="alternate" href="/atom.xml" title="Jason's Blog" type="application/atom+xml">
+</head>
+
+<body itemscope itemtype="http://schema.org/WebPage">
+  <div class="container use-motion">
+    <div class="headband"></div>
+    
+    <a href="https://github.com/ImJasonIT" target="_blank" rel="noopener" title="Fork me on Github" class="github-corner" aria-label="View source on GitHub"><svg width="80" height="80" viewBox="0 0 250 250" style="fill:#151513; color:#fff; position: absolute; top: 0; border: 0; right: 0;" aria-hidden="true"><path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path><path d="M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2" fill="currentColor" style="transform-origin: 130px 106px;" class="octo-arm"></path><path d="M115.0,115.0 C114.9,115.1 118.7,116.5 119.8,115.4 L133.7,101.6 C136.9,99.2 139.9,98.4 142.2,98.6 C133.8,88.0 127.5,74.4 143.8,58.0 C148.5,53.4 154.0,51.2 159.7,51.0 C160.3,49.4 163.2,43.6 171.4,40.1 C171.4,40.1 176.1,42.5 178.8,56.2 C183.1,58.6 187.2,61.8 190.9,65.4 C194.5,69.0 197.7,73.2 200.1,77.6 C213.8,80.2 216.3,84.9 216.3,84.9 C212.7,93.1 206.9,96.0 205.4,96.6 C205.1,102.4 203.0,107.8 198.3,112.5 C181.9,128.9 168.3,122.5 157.7,114.1 C157.9,116.9 156.7,120.9 152.7,124.9 L141.0,136.5 C139.8,137.7 141.6,141.9 141.8,141.8 Z" fill="currentColor" class="octo-body"></path></svg></a><style>.github-corner:hover .octo-arm{animation:octocat-wave 560ms ease-in-out}@keyframes octocat-wave{0%,100%{transform:rotate(0)}20%,60%{transform:rotate(-25deg)}40%,80%{transform:rotate(10deg)}}@media (max-width:500px){.github-corner:hover .octo-arm{animation:none}.github-corner .octo-arm{animation:octocat-wave 560ms ease-in-out}}</style>
+
+    <header class="header" itemscope itemtype="http://schema.org/WPHeader">
+      <div class="header-inner"><div class="site-brand-container">
+  <div class="site-meta">
+
+    <div>
+      <a href="/" class="brand" rel="start">
+        <span class="logo-line-before"><i></i></span>
+        <span class="site-title">Jason's Blog</span>
+        <span class="logo-line-after"><i></i></span>
+      </a>
+    </div>
+        <p class="site-subtitle">Live in the moment</p>
+  </div>
+
+  <div class="site-nav-toggle">
+    <div class="toggle" aria-label="Toggle navigation bar">
+      <span class="toggle-line toggle-line-first"></span>
+      <span class="toggle-line toggle-line-middle"></span>
+      <span class="toggle-line toggle-line-last"></span>
+    </div>
+  </div>
+</div>
+
+
+<nav class="site-nav">
+  
+  <ul id="menu" class="menu">
+        <li class="menu-item menu-item-home">
+
+    <a href="/" rel="section"><i class="fa fa-fw fa-home"></i>Home</a>
+
+  </li>
+        <li class="menu-item menu-item-tags">
+
+    <a href="/tags/" rel="section"><i class="fa fa-fw fa-tags"></i>Tags</a>
+
+  </li>
+        <li class="menu-item menu-item-categories">
+
+    <a href="/categories/" rel="section"><i class="fa fa-fw fa-th"></i>Categories</a>
+
+  </li>
+        <li class="menu-item menu-item-archives">
+
+    <a href="/archives/" rel="section"><i class="fa fa-fw fa-archive"></i>Archives</a>
+
+  </li>
+        <li class="menu-item menu-item-life">
+
+    <a href="/categories/life/" rel="section"><i class="fa fa-fw fa-camera"></i>Life</a>
+
+  </li>
+        <li class="menu-item menu-item-coding">
+
+    <a href="/categories/coding/" rel="section"><i class="fa fa-fw fa-code"></i>Coding</a>
+
+  </li>
+        <li class="menu-item menu-item-source">
+
+    <a href="/source/" rel="section"><i class="fa fa-fw fa-cloud"></i>Source</a>
+
+  </li>
+      <li class="menu-item menu-item-search">
+        <a role="button" class="popup-trigger"><i class="fa fa-search fa-fw"></i>Search
+        </a>
+      </li>
+  </ul>
+
+</nav>
+  <div class="site-search">
+    <div class="popup search-popup">
+    <div class="search-header">
+  <span class="search-icon">
+    <i class="fa fa-search"></i>
+  </span>
+  <div class="search-input-container">
+    <input autocomplete="off" autocorrect="off" autocapitalize="none"
+           placeholder="Searching..." spellcheck="false"
+           type="text" id="search-input">
+  </div>
+  <span class="popup-btn-close">
+    <i class="fa fa-times-circle"></i>
+  </span>
+</div>
+<div id="search-result"></div>
+
+</div>
+<div class="search-pop-overlay"></div>
+
+  </div>
+</div>
+    </header>
+
+    
+  <div class="back-to-top">
+    <i class="fa fa-arrow-up"></i>
+    <span>0%</span>
+  </div>
+  <div class="reading-progress-bar"></div>
+
+
+    <main class="main">
+      <div class="main-inner">
+        <div class="content-wrap">
+          
+
+          <div class="content">
+            
+
+  <div class="posts-expand">
+      
+  
+  
+  <article itemscope itemtype="http://schema.org/Article" class="post-block " lang="en">
+    <link itemprop="mainEntityOfPage" href="http://www.huangjunfeng.com/2020/05/19/life/20200519/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/avatar.png">
+      <meta itemprop="name" content="Jason Wong">
+      <meta itemprop="description" content="A blog used to share moments or technology about Javascript">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="Jason's Blog">
+    </span>
+      <header class="post-header">
+        <h1 class="post-title" itemprop="name headline">
+          好比火星跟水星相恋
+        </h1>
+
+        <div class="post-meta">
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-calendar-o"></i>
+              </span>
+              <span class="post-meta-item-text">Posted on</span>
+              
+
+              <time title="Created: 2020-05-19 22:48:15 / Modified: 23:57:37" itemprop="dateCreated datePublished" datetime="2020-05-19T22:48:15+08:00">2020-05-19</time>
+            </span>
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-folder-o"></i>
+              </span>
+              <span class="post-meta-item-text">In</span>
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/life/" itemprop="url" rel="index">
+                    <span itemprop="name">life</span>
+                  </a>
+                </span>
+            </span>
+
+          
+            <span class="post-meta-item" title="Views" id="busuanzi_container_page_pv" style="display: none;">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-eye"></i>
+              </span>
+              <span class="post-meta-item-text">Views: </span>
+              <span id="busuanzi_value_page_pv"></span>
+            </span>
+  
+  <span class="post-meta-item">
+    
+      <span class="post-meta-item-icon">
+        <i class="fa fa-comment-o"></i>
+      </span>
+      <span class="post-meta-item-text">Valine: </span>
+    
+    <a title="valine" href="/2020/05/19/life/20200519/#valine-comments" itemprop="discussionUrl">
+      <span class="post-comments-count valine-comment-count" data-xid="/2020/05/19/life/20200519/" itemprop="commentCount"></span>
+    </a>
+  </span>
+  
+  <br>
+            <span class="post-meta-item" title="Symbols count in article">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-file-word-o"></i>
+              </span>
+                <span class="post-meta-item-text">Symbols count in article: </span>
+              <span>3.6k</span>
+            </span>
+            <span class="post-meta-item" title="Reading time">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-clock-o"></i>
+              </span>
+                <span class="post-meta-item-text">Reading time &asymp;</span>
+              <span>3 mins.</span>
+            </span>
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+        <p>最近睇嘅三部剧，先后顺序，《叹息桥》、《玛嘉烈与大卫 绿豆》、《玛嘉烈与大卫 前度》，都喺同一班制作团队，我作为一个门外汉以及一个观众嘅角度嚟评价呢三部剧的制作，我只可以讲我喺叹为观止。每一帧都喺艺术大片，每一首插曲都喺恰到好处。</p>
+<p>如果要我评分，我会俾九分，剩低嘅一分，我俾陈奕迅。</p>
+<p>好多人拍拖唔知自己究竟爱唔爱对方。</p>
+<p>其实你喺爱嘅，只喺，唔够爱。</p>
+<p>维系一段关系最紧要嘅喺乜嘢？信任。</p>
+<p>绿豆里面，大卫最后都喺选择相信玛嘉烈，明知道未必喺真相嘅全部，佢仍选择相信，因为佢知道维系一段关系，最重要喺信任。而且，大卫明白真话喺需要勇气先可以讲出口嘅。 </p>
+<p>每个人对过往嘅人同事，记忆总会有所偏差。</p>
+<p>全剧唯一清醒，冷眼看世界嘅果个人，即喺《叹息桥》嘅第一视角，Kevin。学佢话斋，喺香港，边个正常人冇病呢？</p>
+<p>睇完呢三部剧，醍醐灌顶讲唔上，但起码对维系亲情、爱情、友情有更深嘅见解。</p>
+<p>你品，你仔细品。</p>
+<a id="more"></a>
+
+<h3 id="玛嘉烈与大卫-绿豆"><a href="#玛嘉烈与大卫-绿豆" class="headerlink" title="玛嘉烈与大卫 绿豆"></a>玛嘉烈与大卫 绿豆</h3><p>第1集《我们的》<br>玛嘉烈与大卫在那程车遇上了，然后就成为情侣。之后就做尽了所有情侣都会做的事，逛街、吃饭、吵架、和好。<br>恋爱，根本就是「三幅被」，每对情侣走的路都几乎一样，浪漫过后就要面对现实，玛嘉烈与大卫现在就走到了这一步…</p>
+<p>第2集《好兄弟》<br>所有说自己适合独居，要有私人空间的人，只不过还没找到一个想跟他一起生活的人，没有人天生喜欢孤独。<br>玛嘉烈答应了与大卫同居，这是好事，可以令一段感情更加立体，看到情人的真面目，也是种挑战…</p>
+<p>第3集《相见好》<br>她喜欢吃完早餐才刷牙，他却要先刷牙才吃早餐，她要开著电视才能入睡，他却有光就不能入睡。 相爱很难，相处更难，两个截然不同的人要在同一个空间相处， 要互相迁就、妥协、忍让，就是为了有人一起回家的这种感觉。 </p>
+<p>第4集《我和你》<br>情人可以跟自己的朋友成为朋友是一件好事， 但当情人和自己的朋友成为好朋友，就会是一个麻烦。 我和你，到底是哪一个我和哪一个你？ </p>
+<p>第5集《那一夜》<br>「我喜欢你喜欢我」…大卫反复想着这句话，如果玛嘉烈是因为这个理由而跟他一起，大卫觉得没关系，至少他的付出有维系这段关系的作用，不是所有付出了的感觉都有价值。</p>
+<p>第6集《云吞面》<br>裂痕最初出现的时候通常也没有人为意，以为过去了就算，感情的缺口不会一朝一夕形成。<br> 经常说被第三者介入，其实第三者根本无心。大卫觉得跟Diamond见面是一个喘息的空间， 通常闭一口气闭得越久，要喘的一口气便喘得越大。 </p>
+<p>第7集《坏女人》<br>思想是最难控制的，叫自己不要想便会想得更多。 玛嘉烈这一刻不想自己想入非非，但她控制不了。 一隻又大又厚的手，现在在她的头、肩、颈，再往下去，究竟会到哪裡去？ </p>
+<p>第8集《咖哩羊》<br>大卫最爱很在焦边的蛋，他自己永远煎不到。今晚玛嘉烈抢著替大卫煎蛋，她想为大卫做点事情，煎蛋也不错吧？大卫不是吃不饱，只是想吃多一点东西，冲淡咖哩羊的味道。 </p>
+<p>第9集《锁匙配》<br>这裡有两条锁匙，一条想留住玛嘉烈，另一条想打开她的心， 玛嘉烈将两条锁匙放在一起，她想比较清楚两条锁匙的分别，偷回来的东西，永远比囊中物吸引。 </p>
+<p>第10集《寂寞是》<br>大卫听到Diamond叫他「道理王」，忽然有种甜蜜、亲切的感觉，曾几何时，玛嘉烈也这样叫他， 大卫以为只有玛嘉烈才能给他这感觉，为何另一个人也可以呢？可能太想念一种感觉，会让人产生幻觉。</p>
+<p>第11集《近距离》<br>人与人之间最适当的距离就是适可宜止，走得越近，感觉会越远，无论你有多爱那个人，也不可以太亲近。 在天长地久之前，我们要学会如何分开。 </p>
+<p>第12集《远距离》<br>很久之前，玛嘉烈为大卫煮了一碗酸辣汤，大卫问她，酸辣汤难煮吗？ 于是玛嘉烈就解释了一次酸辣汤的做法。今天，大卫想再问一次，他希望可以回到以前，然后将酸辣汤的做法永远放在心裡。 </p>
+<p>第13集《假想敌》<br>我们习惯将回忆放在心裡，不过有些人会将回忆放在盒内，然后将盒子放在心裡，是怕会失去这种回忆，还是怕，怕它会走出来呢？</p>
+<p>第14集《交汇点》<br>每人要走的路都不同，有人一直向前行， 有人兜兜转转，有人倒后行， 但无论朝著哪个方向行，都会有机会遇上。感情的世界，其实都是一个循环。 </p>
+<p>第15集《灯亮了》<br>感情出现谜团的时候，我们都会很想知道答案， 但不是所有事情都有答案，不是所有答案都是真相， 不是所有真相我们都能接受。</p>
+<p>第16集《保鲜纸》<br>很多年之后，大卫想起这碗粥，仍然记得那种涩。而很多年后，究竟他身边的人是否仍是玛嘉烈，根本不重要。因为某些伤口无论是否继续跟那个人在一起，都是永远不会好的。 </p>
+<p>第17集《一夜情》<br>当发现自己变了心，可能或者会觉得内疚， 但是你最希望的不是向情人坦白，而是希望对方跟你一样，爱上另一个人。 </p>
+<p>第18集《罗生门》<br>大卫选择相信玛嘉烈，明知道未必真相的全部，他仍选择相信，因为他知道维系一段关系，最重要是信任。而且，大卫明白真话是需要勇气才能说出口的。 </p>
+<p>第19集《后备席》<br>你拥有自己爱的人，是你的福气，但是有其他人跟你一样，甚至比你更爱她，这是她的福气。 爱一个人，只想令她快乐， 快乐由谁来製造，重要吗？</p>
+<p>第20集《受益人》<br>人，不会一心一意， 总会有一刹那会为其他人动心， 而其中一个心动的原因，是她令你勾起快乐的回忆。 </p>
+<p>第21集《面对面》<br>人总会想拥有一些不属于自己的东西， 但当真的有机会得到却不敢要， 因为一旦接受了，就会失去自己。 </p>
+<p>第22集《见家长》<br>最难走的感情路，是要在裂痕上装作若无其事，从头再来，其实只是一个愿望。</p>
+<p>第23集《潘朵拉》<br>新生活令人充满期待，但对某些人来说，新生活只是一种掩饰，因为他们仍活于过去。</p>
+<p>第24集 《真面目》<br>有人用一世的时间来留住一个人，但对方只用了一刹那就决定离开。<br>永恒的爱情，是来自单方面的心甘情愿。 </p>
+<p>第25集《鱼肚白》<br>究竟离开需要勇气，还是留下需要更大的勇气？<br>Diamond选择离开，大卫选择留下。<br>他们两个，谁会更快乐？</p>
+<p>第26集《抱紧我》<br>爱情是一场持久的考验，要到达终点，就要懂得回到最初。<br>回想起当初爱上这个人的原因，然后说服自己，继续爱。</p>
+<h3 id="玛嘉烈与大卫-前度"><a href="#玛嘉烈与大卫-前度" class="headerlink" title="玛嘉烈与大卫 前度"></a>玛嘉烈与大卫 前度</h3><p>第1集 《第七秒》<br>有人说，一个人要判断另一个人跟自己有没有发展的可能，关键是首六秒。如果首六秒都没有感觉，之后也很难会有。不过，就算首六秒真的有感觉，也不代表有将来。如果首六秒都下不了决定，第七秒会怎样？</p>
+<p>第2集 《情歌颂》<br>要证明你喜欢一个人，其实有很多方法。其中一种是当你看到她的时候，你会由心里笑出来，你未必会知道，但是其他人一定看得出来。</p>
+<p>第5集 《尼古丁》<br>和一个人在一起有很多原因，他令你有优越感、安全感、亲切感，他会照顾你、保护你、倾慕你、重视你，总之有很多原因。不过和一个人在一起，不一定是因为喜欢他。</p>
+<p>第7集 《十二时》<br>诱惑有两种，一种是利诱，一种是色诱，两种都是挑战人的贪恋。利是长线，色是一时，一时的诱惑最难抗拒，因为这种浪漫可一不可再。</p>
+<p>第9集 《叮一叮》<br>遇上喜欢的人，你不止忐忑，身体已经会有反应。当你很想得到，自然会采取主动。有一种原始的快乐，来自情不自禁。</p>
+<p>第10集 《说晚安》<br>爱情很难看得透，就算你天天对着它，都不知道什么时候是真，什么时候是假。恋爱的确会令人盲目，因为当你很爱他，就算明知道是假都会当真。</p>
+<p>第13集 《床上戏》<br>每一对细水长流的恋人，都经历过同床异梦的阶段。有人熬过去了，但是更多人却选择放弃。白头到老同偕白首，不是传说而是一个励志故事，要开花结果最重要的是耐性。</p>
+<p>第15集 《深呼吸》<br>当感情出现问题，有人会想究竟自己在哪方面做得不够好，但是其实未必因为自己不够好，可能是因为你太好。对爱人好未必有好报，爱情就是这么不可理喻。</p>
+<p>第16集 《叮叮饭》<br>谈恋爱是切磋，你走前一步，他退后一步，互相试探，互相猜测。恋爱其实可以简单些，但是简单的爱，对玛嘉烈来说没有挑战性。</p>
+<p>第20集《旧气味》<br>总有一些人会在你觉得他重要的时候离开，在你淡忘他的时候又再出现。你可以允许自己再为他心跳，不过，不要再堕入他的陷阱。因为他从来，都没在意过。</p>
+<p>第22集《为你好》<br>做一个好人永远比做一个坏人难，坏人只需要想自己，而好人则要为其他人着想。为其他人着想，就要委屈自己，还要委屈得心甘情愿，而维珍一直都只想做一个好人。</p>
+<p>第23集《回不去》<br>要离开一段感情就要下定决心，不再回头看，依依不舍，其实只是希望地方挽留，而结果只有再一次失望。我们可以输给爱情，但是不能赔上尊严。</p>
+<p>第27集《急转弯》<br>当你以为自己是一个爱情至上的人，但现实告诉你，你会为生活放弃爱情。浪漫需要代价，爱情和生活一样需要计算。大卫以为自己很爱维珍，是爱，不过不够爱。</p>
+<p>第29集《终点前》<br>每段感情都会有完结的一天，不是你不爱他，就是他不爱你。即使大家都相爱，也总会有一个人要先走，爱情来的时候是开心的话，离开的时候，也应该笑着走。</p>
+<p>第30集《下个你》<br>感情会过去，但是有些人会永远留在你的心里面，他们曾经出现，成为你人生的一部分，之后我们会爱上下一个，再下一个。但是其实每一个可能都是一样，因为命中注定，我们只会爱上一种人，输给一种人，然后被其他人爱上。</p>
+<h3 id="叹息桥"><a href="#叹息桥" class="headerlink" title="叹息桥"></a>叹息桥</h3><p>你知不知道 叹息桥还有个名字<br>叫幸福桥<br>幸福还是叹息 是自己选的</p>
+
+    </div>
+
+    
+    
+    
+        <div class="reward-container">
+  <div></div>
+  <button onclick="var qr = document.getElementById('qr'); qr.style.display = (qr.style.display === 'none') ? 'block' : 'none';">
+    Donate
+  </button>
+  <div id="qr" style="display: none;">
+      
+      <div style="display: inline-block;">
+        <img src="/images/wechatpay.png" alt="Jason Wong WeChat Pay">
+        <p>WeChat Pay</p>
+      </div>
+
+  </div>
+</div>
+
+        
+
+<div>
+<ul class="post-copyright">
+  <li class="post-copyright-author">
+    <strong>Post author:  </strong>Jason Wong
+  </li>
+  <li class="post-copyright-link">
+    <strong>Post link: </strong>
+    <a href="http://www.huangjunfeng.com/2020/05/19/life/20200519/" title="好比火星跟水星相恋">http://www.huangjunfeng.com/2020/05/19/life/20200519/</a>
+  </li>
+  <li class="post-copyright-license">
+    <strong>Copyright Notice:  </strong>All articles in this blog are licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" rel="noopener" target="_blank"><i class="fa fa-fw fa-creative-commons"></i>BY-NC-SA</a> unless stating additionally.
+  </li>
+</ul>
+</div>
+
+
+      <footer class="post-footer">
+          
+          <div class="post-tags">
+              <a href="/tags/life/" rel="tag"><i class="fa fa-tag"></i> life</a>
+              <a href="/tags/%E7%8E%9B%E5%98%89%E7%83%88%E4%B8%8E%E5%A4%A7%E5%8D%AB/" rel="tag"><i class="fa fa-tag"></i> 玛嘉烈与大卫</a>
+              <a href="/tags/%E5%8F%B9%E6%81%AF%E6%A1%A5/" rel="tag"><i class="fa fa-tag"></i> 叹息桥</a>
+          </div>
+
+        
+
+
+        
+    <div class="post-nav">
+      <div class="post-nav-item">
+    <a href="/2020/03/10/life/20200310/" rel="prev" title="做鞭子很简单，做有价值的锄头，很难。">
+      <i class="fa fa-chevron-left"></i> 做鞭子很简单，做有价值的锄头，很难。
+    </a></div>
+      <div class="post-nav-item">
+    <a href="/2021/01/12/life/2020review/" rel="next" title="life/2020review">
+      life/2020review <i class="fa fa-chevron-right"></i>
+    </a></div>
+    </div>
+      </footer>
+    
+  </article>
+  
+  
+  
+
+  </div>
+
+
+          </div>
+          
+    <div class="comments" id="valine-comments"></div>
+
+<script>
+  window.addEventListener('tabs:register', () => {
+    let activeClass = CONFIG.comments.activeClass;
+    if (CONFIG.comments.storage) {
+      activeClass = localStorage.getItem('comments_active') || activeClass;
+    }
+    if (activeClass) {
+      let activeTab = document.querySelector(`a[href="#comment-${activeClass}"]`);
+      if (activeTab) {
+        activeTab.click();
+      }
+    }
+  });
+  if (CONFIG.comments.storage) {
+    window.addEventListener('tabs:click', event => {
+      if (!event.target.matches('.tabs-comment .tab-content .tab-pane')) return;
+      let commentClass = event.target.classList[1];
+      localStorage.setItem('comments_active', commentClass);
+    });
+  }
+</script>
+
+        </div>
+          
+  
+  <div class="toggle sidebar-toggle">
+    <span class="toggle-line toggle-line-first"></span>
+    <span class="toggle-line toggle-line-middle"></span>
+    <span class="toggle-line toggle-line-last"></span>
+  </div>
+
+  <aside class="sidebar">
+    <div class="sidebar-inner">
+
+      <ul class="sidebar-nav motion-element">
+        <li class="sidebar-nav-toc">
+          Table of Contents
+        </li>
+        <li class="sidebar-nav-overview">
+          Overview
+        </li>
+      </ul>
+
+      <!--noindex-->
+      <div class="post-toc-wrap sidebar-panel">
+          <div class="post-toc motion-element"><ol class="nav"><li class="nav-item nav-level-3"><a class="nav-link" href="#玛嘉烈与大卫-绿豆"><span class="nav-number">1.</span> <span class="nav-text">玛嘉烈与大卫 绿豆</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#玛嘉烈与大卫-前度"><span class="nav-number">2.</span> <span class="nav-text">玛嘉烈与大卫 前度</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#叹息桥"><span class="nav-number">3.</span> <span class="nav-text">叹息桥</span></a></li></ol></div>
+      </div>
+      <!--/noindex-->
+
+      <div class="site-overview-wrap sidebar-panel">
+        <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
+    <img class="site-author-image" itemprop="image" alt="Jason Wong"
+      src="/images/avatar.png">
+  <p class="site-author-name" itemprop="name">Jason Wong</p>
+  <div class="site-description" itemprop="description">A blog used to share moments or technology about Javascript</div>
+</div>
+<div class="site-state-wrap motion-element">
+  <nav class="site-state">
+      <div class="site-state-item site-state-posts">
+          <a href="/archives/">
+        
+          <span class="site-state-item-count">6</span>
+          <span class="site-state-item-name">posts</span>
+        </a>
+      </div>
+      <div class="site-state-item site-state-categories">
+            <a href="/categories/">
+          
+        <span class="site-state-item-count">2</span>
+        <span class="site-state-item-name">categories</span></a>
+      </div>
+      <div class="site-state-item site-state-tags">
+            <a href="/tags/">
+          
+        <span class="site-state-item-count">8</span>
+        <span class="site-state-item-name">tags</span></a>
+      </div>
+  </nav>
+</div>
+  <div class="links-of-author motion-element">
+      <span class="links-of-author-item">
+        <a href="https://github.com/ImJasonIT" title="GitHub → https:&#x2F;&#x2F;github.com&#x2F;ImJasonIT" rel="noopener" target="_blank"><i class="fa fa-fw fa-github"></i></a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="mailto:964348520@qq.com" title="E-Mail → mailto:964348520@qq.com" rel="noopener" target="_blank"><i class="fa fa-fw fa-envelope"></i></a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://www.facebook.com/profile.php?id=100027347526658" title="FB Page → https:&#x2F;&#x2F;www.facebook.com&#x2F;profile.php?id&#x3D;100027347526658" rel="noopener" target="_blank"><i class="fa fa-fw fa-facebook"></i></a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="/atom.xml" title="RSS → &#x2F;atom.xml"><i class="fa fa-fw fa-rss"></i></a>
+      </span>
+  </div>
+
+
+  <div class="links-of-blogroll motion-element">
+    <div class="links-of-blogroll-title">
+      <i class="fa fa-fw fa-link"></i>
+      Links
+    </div>
+    <ul class="links-of-blogroll-list">
+        <li class="links-of-blogroll-item">
+          <a href="https://github.com/yyx990803" title="https:&#x2F;&#x2F;github.com&#x2F;yyx990803" rel="noopener" target="_blank">男神尤雨溪</a>
+        </li>
+        <li class="links-of-blogroll-item">
+          <a href="http://weibo.com/lifesinger" title="http:&#x2F;&#x2F;weibo.com&#x2F;lifesinger" rel="noopener" target="_blank">玉伯</a>
+        </li>
+        <li class="links-of-blogroll-item">
+          <a href="http://es6.ruanyifeng.com/" title="http:&#x2F;&#x2F;es6.ruanyifeng.com&#x2F;" rel="noopener" target="_blank">阮一峰</a>
+        </li>
+        <li class="links-of-blogroll-item">
+          <a href="https://www.zhangxinxu.com/" title="https:&#x2F;&#x2F;www.zhangxinxu.com&#x2F;" rel="noopener" target="_blank">张鑫旭</a>
+        </li>
+        <li class="links-of-blogroll-item">
+          <a href="https://www.liaoxuefeng.com/wiki/1022910821149312" title="https:&#x2F;&#x2F;www.liaoxuefeng.com&#x2F;wiki&#x2F;1022910821149312" rel="noopener" target="_blank">廖雪峰</a>
+        </li>
+        <li class="links-of-blogroll-item">
+          <a href="https://www.html5rocks.com/zh/tutorials/internals/howbrowserswork/" title="https:&#x2F;&#x2F;www.html5rocks.com&#x2F;zh&#x2F;tutorials&#x2F;internals&#x2F;howbrowserswork&#x2F;" rel="noopener" target="_blank">浏览器原理</a>
+        </li>
+    </ul>
+  </div>
+
+      </div>
+
+    </div>
+  </aside>
+  <div id="sidebar-dimmer"></div>
+
+
+      </div>
+    </main>
+
+    <footer class="footer">
+      <div class="footer-inner">
+        
+  <div class="beian"><a href="http://www.beian.miit.gov.cn/" rel="noopener" target="_blank">粤ICP备20009394号-1 </a>
+      <img src="/images/beian.png" style="display: inline-block;">
+  </div>
+
+<div class="copyright">
+  
+  &copy; 2019 – 
+  <span itemprop="copyrightYear">2021</span>
+  <span class="with-love">
+    <i class="fa fa-user"></i>
+  </span>
+  <span class="author" itemprop="copyrightHolder">Jason Wong</span>
+    <span class="post-meta-divider">|</span>
+    <span class="post-meta-item-icon">
+      <i class="fa fa-area-chart"></i>
+    </span>
+    <span title="Symbols count total">6k</span>
+    <span class="post-meta-divider">|</span>
+    <span class="post-meta-item-icon">
+      <i class="fa fa-coffee"></i>
+    </span>
+    <span title="Reading time total">5 mins.</span>
+</div>
+
+<!--
+  <div class="powered-by">Powered by <a href="https://hexo.io/" class="theme-link" rel="noopener" target="_blank">Hexo</a> v4.2.0
+  </div>
+  <span class="post-meta-divider">|</span>
+  <div class="theme-info">Theme – <a href="https://muse.theme-next.org/" class="theme-link" rel="noopener" target="_blank">NexT.Muse</a> v7.7.0
+  </div>
+-->
+
+        
+<div class="busuanzi-count">
+  <script async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+    <span class="post-meta-item" id="busuanzi_container_site_uv" style="display: none;">
+      <span class="post-meta-item-icon">
+        <i class="fa fa-user"></i>
+      </span>
+      <span class="site-uv" title="Total Visitors">
+        <span id="busuanzi_value_site_uv"></span>
+      </span>
+    </span>
+    <span class="post-meta-divider">|</span>
+    <span class="post-meta-item" id="busuanzi_container_site_pv" style="display: none;">
+      <span class="post-meta-item-icon">
+        <i class="fa fa-eye"></i>
+      </span>
+      <span class="site-pv" title="Total Views">
+        <span id="busuanzi_value_site_pv"></span>
+      </span>
+    </span>
+</div>
+
+
+
+
+
+
+
+
+      </div>
+    </footer>
+  </div>
+
+  
+  <script src="/lib/anime.min.js"></script>
+  <script src="/lib/velocity/velocity.min.js"></script>
+  <script src="/lib/velocity/velocity.ui.min.js"></script>
+
+<script src="/js/utils.js"></script>
+
+<script src="/js/motion.js"></script>
+
+
+<script src="/js/schemes/muse.js"></script>
+
+
+<script src="/js/next-boot.js"></script>
+
+
+
+
+  
+
+
+
+
+  
+<script src="/js/local-search.js"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+
+
+<script>
+NexT.utils.loadComments(document.querySelector('#valine-comments'), () => {
+  NexT.utils.getScript('//unpkg.com/valine/dist/Valine.min.js', () => {
+    var GUEST = ['nick', 'mail', 'link'];
+    var guest = 'nick,mail,link';
+    guest = guest.split(',').filter(item => {
+      return GUEST.includes(item);
+    });
+    new Valine({
+      el: '#valine-comments',
+      verify: false,
+      notify: true,
+      appId: 'ibCjRiz0jV7FJCHgQxo4KpBk-gzGzoHsz',
+      appKey: 'gl5ziybugrjmW75qhm6DsOcv',
+      placeholder: "Just go go",
+      avatar: 'mm',
+      meta: guest,
+      pageSize: '10' || 10,
+      visitor: false,
+      lang: '' || 'zh-cn',
+      path: location.pathname,
+      recordIP: false,
+      serverURLs: ''
+    });
+  }, window.Valine);
+});
+</script>
+
+</body>
+</html>
